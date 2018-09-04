@@ -2,9 +2,9 @@
 
 Exercícios de Macroeconometria
 
-ex-Lista-xx:     Lista de exercícios
+ex-Lista-xx:       Lista de exercícios
 
-Rodney-Lista-xx: Minha resolução da lista
+Rodney-Lista-xx:   Minha resolução da lista
 
 9 - Análise da serie temporal do PIB e seu processo gerador
 
