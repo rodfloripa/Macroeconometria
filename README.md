@@ -1,6 +1,7 @@
 # Macroeconometria com R
 
-Exercícios de Macroeconometria
+Exercícios selecionados de Macroeconometria, onde séries temporais de importantes indicadores
+econômicos são analisadas. Em alguns casos são criados modelos de previsão para as séries.
 
 ex-Lista-xx:       Lista de exercícios
 
