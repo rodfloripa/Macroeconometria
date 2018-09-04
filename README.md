@@ -1,4 +1,4 @@
-# Macroeconometria
+# Macroeconometria com R
 
 Exercícios de Macroeconometria
 
