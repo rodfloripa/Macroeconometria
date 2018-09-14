@@ -12,7 +12,7 @@ Rodney-Lista-xx:   Minha resolução da lista
 
 11- Previsão das vendas no comércio usando modelo ARIMAX e regressão
 
-12- Previsão da dívida bruta com um modelo de correção de erros
+12- Previsão da dívida bruta com um modelo VAR de correção de erros
 
 13- Investigando causalidade entre Produção Industrial x Confiança,
 Inflação Medida x Expectativa
